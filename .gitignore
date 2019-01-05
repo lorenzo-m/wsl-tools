@@ -1,5 +1,5 @@
 # IntelliJ Project Settings
 .idea/workspace.xml
-.idea/*.iml
-.idea/modules.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
 
